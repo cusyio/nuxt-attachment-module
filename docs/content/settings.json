@@ -1,0 +1,11 @@
+{
+  "title": "Nuxt Attachment",
+  "url": "https://cusyio.github.io/nuxt-attachment-module/",
+  "logo": {
+    "light": "/nuxt-attachment-module/logo-light.svg",
+    "dark": "/nuxt-attachment-module/logo-dark.svg"
+  },
+  "github": "cusyio/nuxt-attachment-module",
+  "twitter": "cusyio",
+  "defaultBranch": "main"
+}
